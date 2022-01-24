@@ -1,4 +1,4 @@
-package com.droidlogix.dbflare.annotation;
+package com.johnpili.dbflare.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

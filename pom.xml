@@ -4,10 +4,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.droidlogix</groupId>
+    <groupId>com.johnpili</groupId>
     <artifactId>dbflare-annotation</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.1</version>
+    <version>1.1.0</version>
 
     <properties>
         <maven.compiler.target>1.8</maven.compiler.target>
@@ -16,7 +16,7 @@
 
     <name>DBFlare Annotation</name>
     <description>A package containing annotations for DBFlare related use cases</description>
-    <url>https://github.com/droidlogix/dbflare-annotation</url>
+    <url>https://github.com/johnpili/dbflare-annotation</url>
 
     <licenses>
         <license>
@@ -28,16 +28,14 @@
     <developers>
         <developer>
             <name>John Pili</name>
-            <email>mrprintedwall@gmail.com</email>
-            <organization>Droidlogix Inc</organization>
-            <organizationUrl>https://www.droidlogix.com</organizationUrl>
+            <email>johnpili@johnpili.com</email>
         </developer>
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/droidlogix/dbflare-client.git</connection>
-        <developerConnection>scm:git:ssh://github.com/droidlogix/dbflare-client.git</developerConnection>
-        <url>https://github.com/droidlogix/dbflare-client/tree/master</url>
+        <connection>scm:git:git://github.com/johnpili/dbflare-client.git</connection>
+        <developerConnection>scm:git:ssh://github.com/johnpili/dbflare-client.git</developerConnection>
+        <url>https://github.com/johnpili/dbflare-client/tree/master</url>
     </scm>
 
 
